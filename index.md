@@ -1,6 +1,6 @@
 Geraldine Whitaker CS499 ePortfolio 
 
-Introduction  
+Self Assessment 
 
 Completing the Computer Science program at Southern New Hampshire University has allowed me to reflect on both my technical growth and my professional development. Throughout the program, I have gained experience in programming, data management, security principles, and software engineering practices that have prepared me to enter the computer science field with confidence. The capstone enhancements in this portfolio demonstrate not only my technical abilities, but also my growth mindset, problem-solving skills, and commitment to continuous improvement.  
   
@@ -15,3 +15,11 @@ Collaboration and communication have also been central components of my educatio
 The enhancements included in this ePortfolio collectively demonstrate the progression of my technical skills. Each enhancement builds upon the last, introducing database integration, improved structure, security considerations, and a user-facing interface. Together, these artifacts illustrate my ability to take a simple concept and improve it into a more comprehensive and professional project.  
  
 Overall, completing this program has shaped both my professional goals and values. I value thoughtful design, maintainable code, and secure development practices. I have learned to approach problems analytically, communicate solutions clearly, and continuously refine my skills. This ePortfolio represents not just a collection of technical artifacts, but a demonstration of my readiness to contribute meaningfully to the computer science field and to continue growing as a technology professional. 
+
+Code Review 
+#INSERT HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ePortfolio Links 
+[Software Enginnering and Design Enhancement] (Enhancement1.html)
+[Data Structure and Algorithms Enhancement] (Enhancement2.html)
+[Databases Enhancement] (Enhancement3.html)
