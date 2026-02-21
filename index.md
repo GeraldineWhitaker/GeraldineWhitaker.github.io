@@ -20,6 +20,6 @@ Code Review
 #INSERT HERE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ePortfolio Links 
-[Software Enginnering and Design Enhancement] (Enhancement1.html)
-[Data Structure and Algorithms Enhancement] (Enhancement2.html)
-[Databases Enhancement] (Enhancement3.html)
+- [Software Enginnering and Design Enhancement] (Enhancement1.html)
+- [Data Structure and Algorithms Enhancement] (Enhancement2.html)
+- [Databases Enhancement] (Enhancement3.html)
