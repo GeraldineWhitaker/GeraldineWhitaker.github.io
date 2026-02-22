@@ -1,4 +1,7 @@
-Geraldine Whitaker CS499 ePortfolio 
+---
+title: "Geraldine Whitaker ePortfolio" 
+description: "Self Assessment and Code Review"
+---
 
 Self Assessment 
 
