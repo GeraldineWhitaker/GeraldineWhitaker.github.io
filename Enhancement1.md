@@ -1,4 +1,7 @@
-Software Engineering and Design Enhancement Narrative 
+---
+title: "Geraldine Whitaker - CS499 ePortfolio"
+description: "Software Engineering and Design Enhancement and Narrative" 
+---
 
 This artifact is from my IT-145 Foundation in Application Development class that I took about two years ago. The concept of this project was that the company, Grazioso Salvare, uses dogs and monkeys as search and rescue animals, and put the animals in training prior to being in service. I chose this artifact because I thought it would be the best one to use to effectively show my skills and complete the course outcomes for all five of the enhancements. Rather than making small enhancements across three different projects, I liked the idea of taking one project that was extremely simple and lacked security, logic, and long-term storage, and fixing these problems by the end of all the enhancements.  
 
