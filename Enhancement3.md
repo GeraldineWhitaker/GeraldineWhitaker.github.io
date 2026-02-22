@@ -24,7 +24,7 @@ The only change that I made from my original plan was dropping the role-based ac
 ![Dog Page](images/SearchResults.png)
 
 ## **View the Code Repositories**
-- [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
+- [Original Version](https://github.com/GeraldineWhitaker/Original-Code)
 - [Enhanced Version - Software Engineering and Design](https://github.com/GeraldineWhitaker/Software-Engineering-and-Design-Enhancement-)
 - [Enhanced Version - Data Structures and Algoritms](https://github.com/GeraldineWhitaker/Data-Structures-and-Algorithms)
 - [Enhanced Version - Database](https://github.com/GeraldineWhitaker/Database-Enhancement)
