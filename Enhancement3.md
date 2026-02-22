@@ -1,6 +1,5 @@
 ---
-title: "Geraldine Whitaker - CS499 ePortfolio"
-description: "Database Enhancement and Narrative"  
+title: "Database Enhancement and Narrative"  
 ---
 
 The artifact that I used is originally my IT-145 Foundation in Application Development class that I took over two years ago, with the added enhancements from both the software design and engineering enhancement and the algorithms and data structures enhancements. The concept of this project was that the company, Grazioso Salvare, uses dogs and monkeys as search and rescue animals, and put the animals in training prior to being in service. The enhancements that I made during the software design and engineering phase were rewriting the code in Python and implementing role-based access using username and passwords.  The enhancements that I made during the algorithms and data structures phase were improving reservation logic, training status updates, as well as searching for animals.   
