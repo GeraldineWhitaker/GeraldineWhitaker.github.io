@@ -14,7 +14,7 @@ Monkey Page
 <img src="images/Monkey.png" width="600">
 
 Search Page 
-<img src="aimages/Search.png" width="600">
+<img src="images/Search.png" width="600">
 
 Search Page with Results 
 <img src="images/SearchResults.png" width="600">
