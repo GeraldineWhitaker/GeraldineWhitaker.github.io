@@ -10,15 +10,15 @@ The only change that I made from my original plan was dropping the role-based ac
 
 ![Dashboard Page](images/Dashboard.png)
 
-![Dog Page](images/Doge.png)
+![Dog Page](images/Dog.png)
 
-Monkey Page 
+## Monkey Page 
 <img src="images/Monkey.png" width="600">
 
-Search Page 
+## Search Page 
 <img src="images/Search.png" width="600">
 
-Search Page with Results 
+## Search Page with Results 
 <img src="images/SearchResults.png" width="600">
 
 ## **View the Code Repositories**
