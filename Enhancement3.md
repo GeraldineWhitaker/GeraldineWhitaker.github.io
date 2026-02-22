@@ -32,4 +32,4 @@ The only change that I made from my original plan was dropping the role-based ac
 ## **ePortfolio Links**
 - [Self Assessment and Code Review](index.html)
 - [Software Engineering and Design Enhancement](Enhancement1.html)
-- [Data Structures and AlgoritmsEnhancement](Enhancement2.html)
+- [Data Structures and Algoritms Enhancement](Enhancement2.html)
