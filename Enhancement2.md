@@ -10,7 +10,7 @@ I chose this single artifact for all three of my enhancements for my ePortfolio 
 ![Multi-Criteria Search](images/MCSearch.png)
 
 ## **View the Code Repositories**
-- [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
+- [Original Version](https://github.com/GeraldineWhitaker/Original-Code)
 - [Enhanced Version - Software Engineering and Design](https://github.com/GeraldineWhitaker/Software-Engineering-and-Design-Enhancement-)
 - [Enhanced Version - Data Structures and Algoritms](https://github.com/GeraldineWhitaker/Data-Structures-and-Algorithms)
 
