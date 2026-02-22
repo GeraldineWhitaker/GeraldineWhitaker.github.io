@@ -8,18 +8,20 @@ I chose this single artifact for all three of my enhancements for my ePortfolio 
 
 The only change that I made from my original plan was dropping the role-based access that was implemented during the software design and engineering phase using username and password authentication. Although role-based access would have been an appropriate addition to the web application, it added complexity and additional challenges that did not contribute to the main enhancements that I wanted to implement during this phase. Because I already met the security mind set outcome during the first enhancement, I decided it was not necessary to keep during this enhancement. However, I did not drop all security from the project. I kept input validation and added a Flask secret key to protect session data and flash messages. 
 
+## Dashboard Page 
 ![Dashboard Page](images/Dashboard.png)
 
+## Dog Page 
 ![Dog Page](images/Dog.png)
 
 ## Monkey Page 
-<img src="images/Monkey.png" width="600">
+![Dog Page](images/Monkey.png)
 
 ## Search Page 
-<img src="images/Search.png" width="600">
+![Dog Page](images/Search.png)
 
 ## Search Page with Results 
-<img src="images/SearchResults.png" width="600">
+![Dog Page](images/SearchResults.png)
 
 ## **View the Code Repositories**
 - [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
