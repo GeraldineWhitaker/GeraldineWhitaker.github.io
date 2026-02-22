@@ -21,13 +21,13 @@ Search Page
 Search Page with Results 
 <img src="images/SearchResults.png" width="600">
 
-View the Code Repositories
+## **View the Code Repositories**
 - [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
 - [Enhanced Version - Software Engineering and Design](https://github.com/GeraldineWhitaker/Software-Engineering-and-Design-Enhancement-)
 - [Enhanced Version - Data Structures and Algoritms](https://github.com/GeraldineWhitaker/Data-Structures-and-Algorithms)
 - [Enhanced Version - Database](https://github.com/GeraldineWhitaker/Database-Enhancement)
 
-ePortfolio Links 
+## **ePortfolio Links**
 - [Self Assessment and Code Review](index.html)
 - [Software Engineering and Design Enhancement](Enhancement1.html)
 - [Data Structures and AlgoritmsEnhancement](Enhancement2.html)
