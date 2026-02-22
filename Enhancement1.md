@@ -1,25 +1,14 @@
-Software Engineering and Design Enhancement 
+Software Engineering and Design Enhancement Narrative 
 
-Narrative 
+This artifact is from my IT-145 Foundation in Application Development class that I took about two years ago. The concept of this project was that the company, Grazioso Salvare, uses dogs and monkeys as search and rescue animals, and put the animals in training prior to being in service. I chose this artifact because I thought it would be the best one to use to effectively show my skills and complete the course outcomes for all five of the enhancements. Rather than making small enhancements across three different projects, I liked the idea of taking one project that was extremely simple and lacked security, logic, and long-term storage, and fixing these problems by the end of all the enhancements.  
 
-Briefly describe the artifact. What is it? When was it created? 
-
-This artifact is from my IT-145 Foundation in Application Development class that I took about two years ago. The concept of this project was that the company, Grazioso Salvare, uses dogs and monkeys as search and rescue animals, and put the animals in training prior to being in service.  
-
-Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved? 
-
-I chose this artifact because I thought it would be the best one to use to effectively show my skills and complete the course outcomes for all five of the enhancements. Rather than making small enhancements across three different projects, I liked the idea of taking one project that was extremely simple and lacked security, logic, and long-term storage, and fixing these problems by the end of all the enhancements.  
-
-Did you meet the course outcomes you planned to meet with this enhancement in Module One? 		Do you have any updates to your outcome-coverage plans? 
-
-I met the course outcomes that I planned by having a security mindset and adding authentication and authorization with role-based access, as well as additional input validation when intaking an animal. I also have demonstrated my ability to deliver professional communications by following the standards and best practices and including comments in my code, making it easier for others to follow what my code is doing.  
-
-Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face? 
-
-While rewriting the code from Java to Python, I solidified my assumption that it wouldn’t be a line-by-line translation. I took the important concepts from the code and rewrote them in Python to ensure that I followed the standards and best practices and that it functioned properly. The only issue that I ran into when initially rewriting the code was type errors when using Python data classes with inheritance. I initially wanted to reduce the redundancy of the code by only having the shared variables and their typing in the RescueAnimal file, such as name, age, and weight. However, I ran into issues with properly aligning the inherited fields and got many errors like “Expected type int but got str.” To fix this, I added the shared variables into the Dog and Monkey subclasses. Although this caused some redundancy by repeating the code, it fixed the type errors and improved the reliability of the code.  
+I met the course outcomes that I planned by having a security mindset and adding authentication and authorization with role-based access, as well as additional input validation when intaking an animal. I also have demonstrated my ability to deliver professional communications by following the standards and best practices and including comments in my code, making it easier for others to follow what my code is doing. While rewriting the code from Java to Python, I solidified my assumption that it wouldn’t be a line-by-line translation. I took the important concepts from the code and rewrote them in Python to ensure that I followed the standards and best practices and that it functioned properly. The only issue that I ran into when initially rewriting the code was type errors when using Python data classes with inheritance. I initially wanted to reduce the redundancy of the code by only having the shared variables and their typing in the RescueAnimal file, such as name, age, and weight. However, I ran into issues with properly aligning the inherited fields and got many errors like “Expected type int but got str.” To fix this, I added the shared variables into the Dog and Monkey subclasses. Although this caused some redundancy by repeating the code, it fixed the type errors and improved the reliability of the code.  
 
 View the Code 
-- [Origional Application] (ADD REPO HERE)
-- [Enhanced Version - Software Engineering and Design] (ADD REPO HERE) 
+- [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
+- [Enhanced Version - Software Engineering and Design](https://github.com/GeraldineWhitaker/Software-Engineering-and-Design-Enhancement-)
 
 ePortfolio Links 
+- [Self Assessment and Code Review](index.html)
+- [Data Structure and Algorithms Enhancement](Enhancement2.html)
+- [Databases Enhancement](Enhancement3.html)
