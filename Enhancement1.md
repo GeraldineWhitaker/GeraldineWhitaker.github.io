@@ -15,7 +15,7 @@ I met the course outcomes that I planned by having a security mindset and adding
 ## Failed Login Attempt  
 ![Dog Page](images/AuthFail.png)
 
-## **View the Code Repositories**
+## **Code Repositories**
 - [Origional Version](https://github.com/GeraldineWhitaker/Original-Code)
 - [Enhanced Version - Software Engineering and Design](https://github.com/GeraldineWhitaker/Software-Engineering-and-Design-Enhancement-)
 
