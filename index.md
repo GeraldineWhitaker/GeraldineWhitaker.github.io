@@ -1,6 +1,5 @@
 ---
 title: "Geraldine Whitaker ePortfolio" 
-description: "Self Assessment and Code Review"
 ---
 
 ## **Self Assessment**
